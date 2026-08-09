@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" alt="Ziola" width="100%" />
+<[img src="banner.svg" alt="Ziola" width="100%" /](https://github.com/zioladev/.github/blob/main/banner.png)>
 
 <br />
 
