@@ -2,12 +2,6 @@
 
 <img src="banner.png" alt="Ziola" width="100%" />
 
-<br />
-
-**Independent software studio building working software for the agentic web.**
-
-[**ziola.dev**](https://ziola.dev) &nbsp;·&nbsp; [hello@ziola.dev](mailto:hello@ziola.dev)
-
 </div>
 
 ---
