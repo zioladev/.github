@@ -16,7 +16,7 @@
 
 Ziola builds for the **agentic web** — where models act through the tools a page exposes, not just the pixels it renders. Our work runs along three lines: **conformance** (holding a build to a standard, deterministically), **capability discovery** (finding, understanding, and running the tools a surface offers), and the **infrastructure** that makes agent actions inspectable, interoperable, and safe to execute.
 
-Built, not pitched. Everything below is shipping, in build, or published.
+Built, not pitched. 
 
 ---
 
