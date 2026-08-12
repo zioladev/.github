@@ -36,7 +36,6 @@ Open-source infrastructure for the WebMCP **provider surface** — define and va
 
 ```
 ✓ Provider Tools  →  ✓ Provider Conformance  →  ✓ Multi-Provider Runtime  →  ✓ Interoperability Conformance  →  ✓ Execution Control
-**Roadmap** 
 
 ```
 
