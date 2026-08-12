@@ -4,9 +4,7 @@
 
 <br />
 
-**Tools for conformance, capability discovery, and intelligent interfaces.**
-
-Independent software studio building working software for the agentic web.
+**Independent software studio building working software for the agentic web.**
 
 [**ziola.dev**](https://ziola.dev) &nbsp;·&nbsp; [hello@ziola.dev](mailto:hello@ziola.dev)
 
@@ -24,28 +22,23 @@ Built, not pitched. Everything below is shipping, in build, or published.
 
 ## Open source
 
-Open-source infrastructure for the WebMCP **provider surface** — define and validate structured browser tools, then check any provider against the contract, independent of who built it. Zero-dependency · TypeScript → ESM · Apache-2.0. Built from real multi-provider WebMCP journeys.
+Open-source infrastructure for the WebMCP **provider surface** — define and validate structured browser tools, check any provider against the contract, then run and verify that independently built providers compose. Zero-dependency · TypeScript → ESM · Apache-2.0. Built from real multi-provider WebMCP journeys.
 
-### [`@zioladev/provider-tools`](https://github.com/zioladev/provider-tools) — the contract · Phase 1
-
-[![npm](https://img.shields.io/npm/v/@zioladev/provider-tools?color=c9a25f&label=npm)](https://www.npmjs.com/package/@zioladev/provider-tools)
+| Package | Phase | |
+| :-- | :-- | :-- |
+| [`@zioladev/provider-tools`](https://github.com/zioladev/provider-tools) | the contract · Phase 1 | [![npm](https://img.shields.io/npm/v/@zioladev/provider-tools?color=c9a25f&label=npm)](https://www.npmjs.com/package/@zioladev/provider-tools) |
+| [`@zioladev/provider-conformance`](https://github.com/zioladev/provider-conformance) | the suite · Phase 2 | [![npm](https://img.shields.io/npm/v/@zioladev/provider-conformance?color=c9a25f&label=npm)](https://www.npmjs.com/package/@zioladev/provider-conformance) |
+| [`@zioladev/interop-runtime`](https://github.com/zioladev/interop-runtime) | the runtime · Phase 3 | [![npm](https://img.shields.io/npm/v/@zioladev/interop-runtime?color=c9a25f&label=npm)](https://www.npmjs.com/package/@zioladev/interop-runtime) |
+| [`@zioladev/interop-conformance`](https://github.com/zioladev/interop-conformance) | interop checks · Phase 4 | [![npm](https://img.shields.io/npm/v/@zioladev/interop-conformance?color=c9a25f&label=npm)](https://www.npmjs.com/package/@zioladev/interop-conformance) |
 
 ```bash
 npm install @zioladev/provider-tools
 ```
 
-### [`@zioladev/provider-conformance`](https://github.com/zioladev/provider-conformance) — the conformance suite · Phase 2
-
-[![npm](https://img.shields.io/npm/v/@zioladev/provider-conformance?color=c9a25f&label=npm)](https://www.npmjs.com/package/@zioladev/provider-conformance)
-
-```bash
-npm install @zioladev/provider-conformance
-```
-
 **Roadmap** — the pieces stack, each inheriting the one before it:
 
 ```
-✓ Provider Tools  →  ✓ Provider Conformance  →  Multi-Provider Runtime  →  Interoperability Conformance  →  Transaction Governance
+✓ Provider Tools  →  ✓ Provider Conformance  →  ✓ Multi-Provider Runtime  →  ✓ Interoperability Conformance  →  Transaction Governance
 ```
 
 ---
@@ -58,7 +51,7 @@ npm install @zioladev/provider-conformance
 | [**swatchdog.dev**](https://swatchdog.dev) | The drift check for AI-built apps — design conformance over MCP. | Shipped · Connector Directory |
 | [**axiomdrift.ai**](https://axiomdrift.ai) | Long-form human–LLM interaction, examined as structure. | Research |
 | [**refraktor.tech**](https://refraktor.tech) | Discover, understand, and execute the tools a page exposes. | Shipped · Chrome |
-| **treefrog.tech** | An interoperable WebMCP town — providers a consumer can chain. | In build |
+| [**treefrog.tech**](https://treefrog.tech) | An interoperable WebMCP town — providers a consumer can chain. | In build |
 | [**selvage.dev**](https://selvage.dev) | The transaction boundary for agentic web actions. | In build |
 
 Full case notes and live demos: [**ziola.dev/work**](https://ziola.dev/work.html)
