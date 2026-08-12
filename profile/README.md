@@ -4,9 +4,7 @@
 
 <br />
 
-**Tools for conformance, capability discovery, and intelligent interfaces.**
-
-Independent software studio building working software for the agentic web.
+**Independent software studio building working software for the agentic web.**
 
 [**ziola.dev**](https://ziola.dev) &nbsp;·&nbsp; [hello@ziola.dev](mailto:hello@ziola.dev)
 
@@ -53,7 +51,7 @@ npm install @zioladev/provider-tools
 | [**swatchdog.dev**](https://swatchdog.dev) | The drift check for AI-built apps — design conformance over MCP. | Shipped · Connector Directory |
 | [**axiomdrift.ai**](https://axiomdrift.ai) | Long-form human–LLM interaction, examined as structure. | Research |
 | [**refraktor.tech**](https://refraktor.tech) | Discover, understand, and execute the tools a page exposes. | Shipped · Chrome |
-| **treefrog.tech** | An interoperable WebMCP town — providers a consumer can chain. | In build |
+| [**treefrog.tech**](https://treefrog.tech) | An interoperable WebMCP town — providers a consumer can chain. | In build |
 | [**selvage.dev**](https://selvage.dev) | The transaction boundary for agentic web actions. | In build |
 
 Full case notes and live demos: [**ziola.dev/work**](https://ziola.dev/work.html)
