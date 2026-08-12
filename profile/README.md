@@ -24,6 +24,9 @@ Built, not pitched.
 
 Open-source infrastructure for the WebMCP **provider surface** — define and validate structured browser tools, check any provider against the contract, then run and verify that independently built providers compose. Zero-dependency · TypeScript → ESM · Apache-2.0. Built from real multi-provider WebMCP journeys.
 
+**Early Releases**
+Ziola packages are currently v0.1.0. Their contracts are implemented and tested, but intentionally open to revision as WebMCP evolves and real-world interoperability evidence accumulates.
+
 | Package | Phase | |
 | :-- | :-- | :-- |
 | [`@zioladev/provider-tools`](https://github.com/zioladev/provider-tools) | Provider Declaration · Phase 1 | [![npm](https://img.shields.io/npm/v/@zioladev/provider-tools?color=c9a25f&label=npm)](https://www.npmjs.com/package/@zioladev/provider-tools) |
