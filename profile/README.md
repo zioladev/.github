@@ -26,19 +26,15 @@ Open-source infrastructure for the WebMCP **provider surface** — define and va
 
 | Package | Phase | |
 | :-- | :-- | :-- |
-| [`@zioladev/provider-tools`](https://github.com/zioladev/provider-tools) | the contract · Phase 1 | [![npm](https://img.shields.io/npm/v/@zioladev/provider-tools?color=c9a25f&label=npm)](https://www.npmjs.com/package/@zioladev/provider-tools) |
-| [`@zioladev/provider-conformance`](https://github.com/zioladev/provider-conformance) | the suite · Phase 2 | [![npm](https://img.shields.io/npm/v/@zioladev/provider-conformance?color=c9a25f&label=npm)](https://www.npmjs.com/package/@zioladev/provider-conformance) |
-| [`@zioladev/interop-runtime`](https://github.com/zioladev/interop-runtime) | the runtime · Phase 3 | [![npm](https://img.shields.io/npm/v/@zioladev/interop-runtime?color=c9a25f&label=npm)](https://www.npmjs.com/package/@zioladev/interop-runtime) |
-| [`@zioladev/interop-conformance`](https://github.com/zioladev/interop-conformance) | interop checks · Phase 4 | [![npm](https://img.shields.io/npm/v/@zioladev/interop-conformance?color=c9a25f&label=npm)](https://www.npmjs.com/package/@zioladev/interop-conformance) |
+| [`@zioladev/provider-tools`](https://github.com/zioladev/provider-tools) | The Contract · Phase 1 | [![npm](https://img.shields.io/npm/v/@zioladev/provider-tools?color=c9a25f&label=npm)](https://www.npmjs.com/package/@zioladev/provider-tools) |
+| [`@zioladev/provider-conformance`](https://github.com/zioladev/provider-conformance) | The Suite · Phase 2 | [![npm](https://img.shields.io/npm/v/@zioladev/provider-conformance?color=c9a25f&label=npm)](https://www.npmjs.com/package/@zioladev/provider-conformance) |
+| [`@zioladev/interop-runtime`](https://github.com/zioladev/interop-runtime) | The Runtime · Phase 3 | [![npm](https://img.shields.io/npm/v/@zioladev/interop-runtime?color=c9a25f&label=npm)](https://www.npmjs.com/package/@zioladev/interop-runtime) |
+| [`@zioladev/interop-conformance`](https://github.com/zioladev/interop-conformance) | Interop Checks · Phase 4 | [![npm](https://img.shields.io/npm/v/@zioladev/interop-conformance?color=c9a25f&label=npm)](https://www.npmjs.com/package/@zioladev/interop-conformance) |
 
-```bash
-npm install @zioladev/provider-tools
-```
-
-**Roadmap** — the pieces stack, each inheriting the one before it:
+**Roadmap**
 
 ```
-✓ Provider Tools  →  ✓ Provider Conformance  →  ✓ Multi-Provider Runtime  →  ✓ Interoperability Conformance  →  Transaction Governance
+✓ Provider Tools  →  ✓ Provider Conformance  →  ✓ Multi-Provider Runtime  →  ✓ Interoperability Conformance  →  Execution Control
 ```
 
 ---
