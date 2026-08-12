@@ -26,10 +26,10 @@ Open-source infrastructure for the WebMCP **provider surface** — define and va
 
 | Package | Phase | |
 | :-- | :-- | :-- |
-| [`@zioladev/provider-tools`](https://github.com/zioladev/provider-tools) | The Contract · Phase 1 | [![npm](https://img.shields.io/npm/v/@zioladev/provider-tools?color=c9a25f&label=npm)](https://www.npmjs.com/package/@zioladev/provider-tools) |
-| [`@zioladev/provider-conformance`](https://github.com/zioladev/provider-conformance) | The Suite · Phase 2 | [![npm](https://img.shields.io/npm/v/@zioladev/provider-conformance?color=c9a25f&label=npm)](https://www.npmjs.com/package/@zioladev/provider-conformance) |
-| [`@zioladev/interop-runtime`](https://github.com/zioladev/interop-runtime) | The Runtime · Phase 3 | [![npm](https://img.shields.io/npm/v/@zioladev/interop-runtime?color=c9a25f&label=npm)](https://www.npmjs.com/package/@zioladev/interop-runtime) |
-| [`@zioladev/interop-conformance`](https://github.com/zioladev/interop-conformance) | Interop Checks · Phase 4 | [![npm](https://img.shields.io/npm/v/@zioladev/interop-conformance?color=c9a25f&label=npm)](https://www.npmjs.com/package/@zioladev/interop-conformance) |
+| [`@zioladev/provider-tools`](https://github.com/zioladev/provider-tools) | Provider Declaration · Phase 1 | [![npm](https://img.shields.io/npm/v/@zioladev/provider-tools?color=c9a25f&label=npm)](https://www.npmjs.com/package/@zioladev/provider-tools) |
+| [`@zioladev/provider-conformance`](https://github.com/zioladev/provider-conformance) | Provider Conformance · Phase 2 | [![npm](https://img.shields.io/npm/v/@zioladev/provider-conformance?color=c9a25f&label=npm)](https://www.npmjs.com/package/@zioladev/provider-conformance) |
+| [`@zioladev/interop-runtime`](https://github.com/zioladev/interop-runtime) | Interoperability Runtime · Phase 3 | [![npm](https://img.shields.io/npm/v/@zioladev/interop-runtime?color=c9a25f&label=npm)](https://www.npmjs.com/package/@zioladev/interop-runtime) |
+| [`@zioladev/interop-conformance`](https://github.com/zioladev/interop-conformance) | Interoperability Qualification · Phase 4 | [![npm](https://img.shields.io/npm/v/@zioladev/interop-conformance?color=c9a25f&label=npm)](https://www.npmjs.com/package/@zioladev/interop-conformance) |
 
 **Roadmap**
 
