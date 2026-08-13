@@ -34,7 +34,7 @@ Ziola packages are currently v0.1.0. Their contracts are implemented and tested,
 | [`@zioladev/interop-runtime`](https://github.com/zioladev/interop-runtime) | Interoperability Runtime · Phase 3 | [![npm](https://img.shields.io/npm/v/@zioladev/interop-runtime?color=c9a25f&label=npm)](https://www.npmjs.com/package/@zioladev/interop-runtime) |
 | [`@zioladev/interop-conformance`](https://github.com/zioladev/interop-conformance) | Interoperability Qualification · Phase 4 | [![npm](https://img.shields.io/npm/v/@zioladev/interop-conformance?color=c9a25f&label=npm)](https://www.npmjs.com/package/@zioladev/interop-conformance) |
 | [`@zioladev/execution-control`](https://github.com/zioladev/execution-control) | Execution Control · Phase 5 | [![npm](https://img.shields.io/npm/v/@zioladev/interop-conformance?color=c9a25f&label=npm)](https://www.npmjs.com/package/@zioladev/execution-control)) |
-| [`@zioladev/cli`](https://github.com/zioladev/cli) | CLI · Phase 6 | [![npm](https://img.shields.io/npm/v/@zioladev/interop-conformance?color=c9a25f&label=npm)(https://www.npmjs.com/package/@zioladev/cli) |
+| [`@zioladev/cli`](https://github.com/zioladev/cli) | CLI · Phase 6 | [![npm](https://img.shields.io/npm/v/@zioladev/interop-conformance?color=c9a25f&label=npm)](https://www.npmjs.com/package/@zioladev/cli)) |
 
 **Roadmap**
 
