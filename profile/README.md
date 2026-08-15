@@ -24,6 +24,8 @@ Built, not pitched.
 
 Open-source infrastructure for the WebMCP **provider surface** — define and validate structured browser tools, check any provider against the contract, then run and verify that independently built providers compose. Zero-dependency · TypeScript → ESM · Apache-2.0. Built from real multi-provider WebMCP journeys.
 
+**Status: ** Qualification currently operates against Ziola's reference evidence format (provider-conformance-report/2). A generalizable ingestion layer - normalizing evidence from arbitrary WebMCP implementations - is in active development. 
+
 **Early Releases**
 Ziola packages are currently v0.1.0. Their contracts are implemented and tested, but intentionally open to revision as WebMCP evolves and real-world interoperability evidence accumulates.
 
@@ -39,7 +41,7 @@ Ziola packages are currently v0.1.0. Their contracts are implemented and tested,
 **Roadmap**
 
 ```
-✓ Provider Tools  →  ✓ Provider Conformance  →  ✓ Multi-Provider Runtime  →  ✓ Interoperability Conformance  →  ✓ Execution Control  →  ✓ CLI
+✓ Provider Tools  →  ✓ Provider Conformance  →  ✓ Multi-Provider Runtime  →  ✓ Interoperability Conformance  →  ✓ Execution Control  →  ✓ CLI  →  Generalizable Ingestion
 ```
 
 ---
