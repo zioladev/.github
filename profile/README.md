@@ -60,6 +60,7 @@ Ziola packages are currently v0.1.0. Their contracts are implemented and tested,
 | [**refraktor.tech**](https://refraktor.tech) | Discover, understand, and execute the tools a page exposes. | Shipped · Chrome |
 | [**treefrog.tech**](https://treefrog.tech) | An interoperable WebMCP town — providers a consumer can chain. | In build |
 | [**selvage.dev**](https://selvage.dev) | The transaction boundary for agentic web actions. | In build |
+| [**signpost.ziola.dev**](https://signpost.ziola.dev) | Stateless capability resolution for WebMCP agents / multi-provider agent journey | WebMCP Challenge |
 
 Full case notes and live demos: [**ziola.dev/work**](https://ziola.dev/work.html)
 
@@ -81,7 +82,7 @@ Published under **Axiom Drift**, archived on Zenodo with DOIs.
 - **Chrome Origin Trial** — sirocco.gallery & treefrog.tech, participants
 - **Zenodo** — peer-archivable research with DOIs
 - **Vercel Community** — swatchdog featured in the Weekly builders showcase
-
+- **DevPost** — WebMCP Challenge: Signpost - Stateless capability resolution for WebMCP agents / multi-provider agent journey 
 ---
 
 ## Writing
